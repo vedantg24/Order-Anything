@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://vedant_99:vedant_99@cluster0-xuwcw.mongodb.net/kilobyte_task?retryWrites=true&w=majority",
+    "jwtSecret": "secret"
+}
